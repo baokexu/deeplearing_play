@@ -1,1 +1,3 @@
-# deeplearing_play
+# deeplearning_play
+
+a place to play with deep learning.
